@@ -14,7 +14,7 @@ In the first plot and animation you can see the effect of this force on a ball t
 it proceeds to curve away from the person. This occurs on Earth with projectiles at very large distances, but nowhere near this extent.
 
 In the second plot and animation you can see the effect on a Foacault pendulum. On the Earth's poles this pendulum makes a full 360
-degree rotation after 24 hours. However, at 6 rpm on the spacecraft it makes this same rotation in seconds! This can be seen in
+degree rotation after 24 hours. However, at 6 rpm on the spacecraft it makes this same rotation in seconds!
 
 ![Coriolis matplotlib](https://github.com/bcapon/BSc-Project/assets/68614521/0a6f34c3-32a6-4f63-ae28-4959b8f6b37e)
 ![Throwing Anim](https://github.com/bcapon/BSc-Project/assets/68614521/b97c462b-9627-48cd-95c1-bd00921338ca)
